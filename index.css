@@ -1,0 +1,33 @@
+body {
+    background-color: khaki;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 15px;
+    width: 100px;
+    color: black;
+    background-color: khaki;
+    cursor: pointer;
+    border-color: tan;
+    height: 30px;
+}
+
+.bar {
+    height: 25px;
+    border-radius: 15px;
+    border-color: tan;
+    font-size: 15px;
+}
+
+.igra {
+    text-align: center;
+}
